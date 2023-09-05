@@ -15,11 +15,13 @@
 
 
 
-Soy ingeniero electrónico, apasionado por la innovación y la tecnología. En los últimos tiempos, me he sentido atraído por el análisis de datos, pero siempre la robótica y la biotecnología han sido las áreas que más han llamado mi atención. Además de esto, siento una enorme pasión por la neurociencia y disfruto mucho estudiando la mente humana.
+Soy ingeniero electrónico, apasionado por la innovación y la tecnología. En los últimos tiempos, me he sentido atraído por el análisis de datos :chart_with_upwards_trend:, pero siempre la robótica y la biotecnología han sido las áreas que más han llamado mi atención. Además de esto, siento una enorme pasión por la neurociencia y disfruto mucho estudiando la mente humana.
 
 Me gusta pensar en la idea de utilizar datos biológicos para detectar enfermedades o para brindar habilidades motoras a personas que carecen de ellas.
 
 Tengo experiencia en la enseñanza y disfruto compartiendo mis conocimientos tanto con mis alumnos como con cualquier persona interesada en estos campos.
+
+Además de mis intereses profesionales, soy pianista :musical_keyboard:, productor musical :musical_score: y organizador de eventos de música electrónica.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left">
@@ -45,4 +47,4 @@ Tengo experiencia en la enseñanza y disfruto compartiendo mis conocimientos tan
   <br>
   
 
-Espero que les gusten mis proyectos :)
+Espero que les gusten mis proyectos :raised_hands:
