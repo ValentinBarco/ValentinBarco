@@ -6,7 +6,7 @@
 
 
 
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/valentinbarco)
 
 <div size='20px'> Este es mi Github :)
 </div>
