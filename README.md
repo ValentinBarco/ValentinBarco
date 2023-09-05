@@ -11,7 +11,7 @@
 <div size='20px'> Este es mi Github :)
 </div>
 
-<h2> Te cuento un poco sobre mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 50px></h2>
+<h2> Te cuento un poco sobre mi </h2>
 
 
 
