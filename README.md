@@ -11,11 +11,11 @@
 <div size='20px'> Este es mi Github :)
 </div>
 
-<h2> Te cuento un poco de mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> Te cuento un poco sobre mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Te cuento un poco sobre mi, soy apasionado por la innovación y la tecnologia,este ultimo tiempo me esta llamando la atencion el análisis de datos y pero siempre me gusto la robótica y la borobotica. Mi pasatiempo es la neurociencia, me gusta mucho el estudio de la mente humana.
+Soy ingeniero electrónico, apasionado por la innovación y la tecnologia, este ultimo tiempo me eh sentido atraido por el análisis de datos, pero siempre el área que mas llamo mas mi atención fue la robótica y la biotecnología. Ademas de todo esto mi tengo una enorme pasión por la neurociencia, me gusta mucho el estudio de la mente humana.
 
 Me gusta pensar en la idea de utilizar datos biológicos para detectar enfermedades ó para poder brindar habilidades motoras a personas que carecen de ellas.
 
