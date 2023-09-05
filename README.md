@@ -33,7 +33,7 @@ Tengo experiencia en la enseñanza y disfruto compartiendo mis conocimientos tan
 </p> </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram" />
+    <a href = "www.linkedin.com/in/valentin-barco"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   </a>
 </p>
   
