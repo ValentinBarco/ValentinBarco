@@ -1,6 +1,6 @@
 
 
-<h1> Hola, soy Valentin!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  </h1>
+<h1> Hola, soy Valentin!  </h1>
 <p align='center'>
 </p>
 
