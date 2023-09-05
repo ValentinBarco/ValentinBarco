@@ -15,9 +15,9 @@
 
 
 
-Soy ingeniero electrónico, apasionado por la innovación y la tecnologia, este ultimo tiempo me eh sentido atraido por el análisis de datos, pero siempre el área que mas llamo mas mi atención fue la robótica y la biotecnología. Ademas de todo esto mi tengo una enorme pasión por la neurociencia, me gusta mucho el estudio de la mente humana.
+Soy ingeniero electrónico, apasionado por la innovación y la tecnología. En los últimos tiempos, me he sentido atraído por el análisis de datos, pero siempre la robótica y la biotecnología han sido las áreas que más han llamado mi atención. Además de esto, siento una enorme pasión por la neurociencia y disfruto mucho estudiando la mente humana.
 
-Me gusta pensar en la idea de utilizar datos biológicos para detectar enfermedades ó para poder brindar habilidades motoras a personas que carecen de ellas.
+Me gusta pensar en la idea de utilizar datos biológicos para detectar enfermedades o para brindar habilidades motoras a personas que carecen de ellas.
 
 Tengo experiencia en la enseñanza y disfruto compartiendo mis conocimientos tanto con mis alumnos como con cualquier persona interesada en estos campos.
 
@@ -32,8 +32,11 @@ Tengo experiencia en la enseñanza y disfruto compartiendo mis conocimientos tan
 <h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 </p> </h2>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <a href="https://www.linkedin.com/in/valentin-barco"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  </a>
+   <a href="https://skillicons.dev">
+    <a href="https://www.instagram.com/valentinbarcoo"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   </a>
 </p>
   
