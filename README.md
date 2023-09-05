@@ -8,7 +8,7 @@
 
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/valentinbarco)
 
-<div size='20px'> Este es mi Github :)
+<div size='20px'> En este Github vas a encontrar proyectos de robotica, análisis de datos, machine learning, neurociencia, procesamiento de imagenes, señales y diseño de circuitos analogicos.
 </div>
 
 <h2> Te cuento un poco sobre mi </h2>
@@ -38,7 +38,7 @@ Además de mis intereses profesionales, soy pianista :musical_keyboard:, product
     <a href="https://www.linkedin.com/in/valentin-barco"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   </a>
    <a href="https://skillicons.dev">
-    <a href="https://www.instagram.com/valentinbarcoo"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+
   </a>
 </p>
   
