@@ -8,7 +8,11 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
-<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Te cuento un poco sobre mi, soy apasionado por la innovación y la tecnologia,este ultimo tiempo me esta llamando la atencion el análisis de datos y pero siempre me gusto la robótica y la borobotica. Mi pasatiempo es la neurociencia, me gusta mucho el estudio de la mente humana.
+
+Me gusta pensar en la idea de utilizar datos biológicos para detectar enfermedades ó para poder brindar habilidades motoras a personas que carecen de ellas.
+
+Tengo experiencia en la enseñanza y disfruto compartiendo mis conocimientos tanto con mis alumnos como con cualquier persona interesada en estos campos.
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
