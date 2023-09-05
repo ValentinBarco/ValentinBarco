@@ -15,7 +15,7 @@
 
 
 
-Soy ingeniero electrónico, apasionado por la innovación y la tecnología. En los últimos tiempos, me he sentido atraído por el análisis de datos :chart_with_upwards_trend:, pero siempre la robótica y la biotecnología han sido las áreas que más han llamado mi atención. Además de esto, siento una enorme pasión por la neurociencia y disfruto mucho estudiando la mente humana.
+Soy ingeniero electrónico, apasionado por la innovación y la tecnología. En este último tiempo, me he sentido atraído por el análisis de datos :chart_with_upwards_trend:, pero siempre la robótica y la biotecnología han sido las áreas que más han llamado mi atención. Además de esto, siento una enorme pasión por la neurociencia y disfruto mucho estudiando la mente humana.
 
 Me gusta pensar en la idea de utilizar datos biológicos para detectar enfermedades o para brindar habilidades motoras a personas que carecen de ellas.
 
