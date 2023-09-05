@@ -13,7 +13,7 @@
 
 <h2> Te cuento un poco sobre mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 Soy ingeniero electrónico, apasionado por la innovación y la tecnologia, este ultimo tiempo me eh sentido atraido por el análisis de datos, pero siempre el área que mas llamo mas mi atención fue la robótica y la biotecnología. Ademas de todo esto mi tengo una enorme pasión por la neurociencia, me gusta mucho el estudio de la mente humana.
 
