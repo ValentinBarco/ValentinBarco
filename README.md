@@ -20,7 +20,7 @@ Me gusta pensar en la idea de utilizar datos biológicos para detectar enfermeda
 
 Tengo experiencia en la enseñanza y disfruto compartiendo mis conocimientos tanto con mis alumnos como con cualquier persona interesada en estos campos.
 
-Además de mis intereses profesionales, soy pianista :musical_keyboard:, productor musical :musical_score: y organizador de eventos de música electrónica.
+Además de mis intereses profesionales, demás, soy pianista 🎹, productor musical 🎵 y organizador de eventos de música electrónica 🎧.
 
 <h2> Conocimiento <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 43px> </h2>
 <p align="left">
