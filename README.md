@@ -29,7 +29,7 @@ Además de mis intereses profesionales, soy pianista :musical_keyboard:, product
   </a>
 </p>
 
-<h2> Contacto  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="150px"> </h2>
+<h2> Contacto  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/valentin-barco"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
