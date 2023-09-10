@@ -2,6 +2,8 @@
 
 <h1> Hola, soy Valentin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
 
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/valentinbarco)
+
 
 <div size='20px'> En este Github vas a encontrar proyectos de robótica, análisis de datos, machine learning, neurociencia, procesamiento de imagenes, señales y diseño de circuitos analogicos.
 </div>
