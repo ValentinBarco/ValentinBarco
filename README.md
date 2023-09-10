@@ -22,7 +22,7 @@ Tengo experiencia en la enseñanza y disfruto compartiendo mis conocimientos tan
 
 Además de mis intereses profesionales, soy pianista :musical_keyboard:, productor musical :musical_score: y organizador de eventos de música electrónica.
 
-<h2> Conocimiento <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Conocimiento <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 150px> </h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,octave,js,tensorflow,pytorch,arduino,raspberrypi,git" width = 600px />
