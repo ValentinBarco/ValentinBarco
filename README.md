@@ -31,7 +31,7 @@ Además de mis intereses profesionales, soy pianista :musical_keyboard:, product
 </p>
 
 
-<h2> Contacto  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
+<h2> Contacto  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 </p> </h2>
 <p align="left">
   <a>
