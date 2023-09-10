@@ -26,12 +26,12 @@ Además de mis intereses profesionales, soy pianista :musical_keyboard:, product
 <h2> Conocimiento <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,octave,js,tensorflow,pytorch,arduino,raspberrypi,git" width = 400px />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,octave,js,tensorflow,pytorch,arduino,raspberrypi,git" width = 500px />
   </a>
 </p>
 
 
-<h2> Contacto  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="200px"> </h2>
+<h2> Contacto  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 </p> </h2>
 <p align="left">
   <a>
