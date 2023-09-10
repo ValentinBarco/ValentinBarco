@@ -1,6 +1,6 @@
 <h1> Hola, soy Valentin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
 
-<img src="https://media.giphy.com/media/HPME8DTZ3fiE5mSnlN/giphy.gif" width="480" height="480" alt="Mandelbrot de Valentin">
+<img src="https://raw.githubusercontent.com/tuNombreDeUsuario/tuRepositorio/master/mandelbrot.gif" alt="Mandelbrot de Valentin">
 
 
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/valentinbarco)
