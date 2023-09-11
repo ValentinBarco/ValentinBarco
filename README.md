@@ -3,8 +3,8 @@
 <h1> Hola, soy Valentin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
 
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/valentinbarco)
-<div style='font-size:24px; font-weight:bold; color: #2c3e50; border-bottom: 10px solid #3498DB; padding-bottom: 10px; margin-bottom: 20px;'>🔍 Descubre mis proyectos en Github:</div>
-<p align="left" style="text-align: left; margin-bottom: 5px;">
+<div style='font-size:24px; font-weight:bold; color: #2c3e50; border-bottom: 4px solid #3498DB; padding-bottom: 10px; margin-bottom: 20px;'>🔍 Descubre mis proyectos en Github:</div>
+<p align="left" style="text-align: left; margin: 5px;">
 <a href="https://github.com/valentinbarco" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?color=00C3EA&size=22&center=false&vCenter=true&width=1100&height=40&lines=Robótica+-+Electrónica+-+Análisis+de+Datos+-+Big+Data+-+Machine+Learning+-+Deep+Learning;" style="border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 195, 234, 0.4); margin-bottom: 10px;">
     <img src="https://readme-typing-svg.herokuapp.com?color=00C3EA&size=22&center=false&vCenter=true&width=1100&height=40&lines=Procesamiento+Digital+de+Imagenes+-+Neurociencia+Computacional+-+Computadoras+Digitales;" style="border-radius: 3px; box-shadow: 0px 0px 10px rgba(0, 195, 234, 0.4);">
