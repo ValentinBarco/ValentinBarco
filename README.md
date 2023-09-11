@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/valentinbarco)
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning;Deep+Learning;Big+Data;Robotica;Electrónica,;DL%20|%20AI%20|%20ML%20Engineer&left=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Análisis+de+DatosñMachine+Learning;Deep+Learning;Big+Data;Robótica;Electrónica,;DL%20|%20AI%20|%20ML%20Engineer&left=true&width=500&height=50"></a>
 </p>
 
 <div size='20px'> 🔍 En este Github vas a encontrar proyectos de robótica, análisis de datos, machine learning, neurociencia, procesamiento de imagenes, señales y diseño de circuitos analogicos.
