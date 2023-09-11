@@ -3,10 +3,10 @@
 <h1> Hola, soy Valentin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
 
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/valentinbarco)
-<div style='font-size:24px; font-weight:bold; color: #2c3e50; border-bottom: 2px solid #3498DB; padding-bottom: 1px; margin-bottom: 1px;'>🔍 Descubre mis proyectos en Github:</div>
-<p align="left" style="text-align: left; margin-bottom: 1px;">
+<div style='font-size:24px; font-weight:bold; color: #2c3e50; border-bottom: 2px solid #3498DB; padding-bottom: 1px; margin-bottom: 5px;'>🔍 Descubre mis proyectos en Github:</div>
+<p align="left" style="text-align: left; margin-bottom: 5px;">
   <a href="https://github.com/valentinbarco" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?color=3498DB&size=22&center=false&vCenter=true&multiline=true&width=500&height=2600&speed=300&lines=-+Robótica;-+Electrónica;-+Análisis+de+Datos;-+Big+Data;-+Machine+Learning;-+Deep+Learning;" style="border-radius: 1px; box-shadow: 0px 0px 1px rgba(52, 152, 219, 0.4);">
+    <img src="https://readme-typing-svg.herokuapp.com?color=3498DB&size=22&center=false&vCenter=true&multiline=true&width=500&height=100&speed=300&lines=-+Robótica;-+Electrónica;-+Análisis+de+Datos;-+Big+Data;-+Machine+Learning;-+Deep+Learning;" style="border-radius: 1px; box-shadow: 0px 0px 1px rgba(52, 152, 219, 0.4);">
   </a>
 </p>
 
