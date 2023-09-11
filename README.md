@@ -6,7 +6,7 @@
 <div style='font-size:24px; font-weight:bold; color: #2c3e50; border-bottom: 2px solid #3498DB; padding-bottom: 5px; margin-bottom: 10px;'>🔍 Descubre mis proyectos en Github:</div>
 <p align="left" style="text-align: left; margin-bottom: 5px;">
   <a href="https://github.com/valentinbarco" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?color=B770CC&size=22&center=false&vCenter=true&multiline=false&width=1200&height=60&speed=500&delay=11000&lines=Robótica+-+Electrónica+-+Análisis+de+Datos+-+Big+Data+-+Machine+Learning+-+Deep+Learning" style="border-radius: 1px; box-shadow: 0px 0px 5px rgba(183, 112, 204, 0.4);">
+    <img src="https://readme-typing-svg.herokuapp.com?color=B770CC&size=22&center=false&vCenter=true&multiline=false&width=1100&height=60&speed=400&delay=30000&lines=Robótica+-+Electrónica+-+Análisis+de+Datos+-+Big+Data+-+Machine+Learning+-+Deep+Learning" style="border-radius: 1px; box-shadow: 0px 0px 5px rgba(183, 112, 204, 0.4);">
   </a>
 </p>
 <h2 style="margin-top: 10px;"> Te cuento un poco sobre mi </h2>
