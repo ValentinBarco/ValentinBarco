@@ -6,7 +6,7 @@
 <div style='font-size:24px; font-weight:bold; color: #2c3e50; border-bottom: 2px solid #3498DB; padding-bottom: 10px; margin-bottom: 15px;'>🔍 Descubre mis proyectos en Github:</div>
 <p align="left" style="text-align: left;">
   <a href="https://github.com/TuNombreDeUsuario" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?color=3498DB&size=22&center=false&vCenter=true&multiline=true&width=500&height=200&speed=300&lines=-+Robótica;-+Electrónica;-+Análisis+de+Datos;-+Big+Data;-+Machine+Learning;-+Deep+Learning;" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(52, 152, 219, 0.4);">
+    <img src="https://readme-typing-svg.herokuapp.com?color=3498DB&size=22&center=false&vCenter=true&multiline=true&width=500&height=600&speed=300&lines=-+Robótica;-+Electrónica;-+Análisis+de+Datos;-+Big+Data;-+Machine+Learning;-+Deep+Learning;" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(52, 152, 219, 0.4);">
   </a>
 </p>
 
