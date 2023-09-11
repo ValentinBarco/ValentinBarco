@@ -3,12 +3,12 @@
 <h1> Hola, soy Valentin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
 
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/valentinbarco)
-<div size='20px'> 🔍 En este Github vas a encontrar proyectos de:
-</div>
+<div style='font-size:20px; font-weight:bold; color: #2c3e50;'>🔍 Explora mis proyectos en Github:</div>
 <p align="left">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Análisis+de+Datos+,+Big+Data+,+Machine+Learning+,+Deep+Learning+,+Robótica+,+Electrónica&center=flase&width=1000&height=80"></a>
+  <a href="https://github.com/TuNombreDeUsuario">
+    <img src="https://readme-typing-svg.herokuapp.com?color=3498DB&lines=Análisis+de+Datos;Big+Data;Machine+Learning;Deep+Learning;Robótica;Electrónica&center=false&width=500&height=80">
+  </a>
 </p>
-
 
 
 
