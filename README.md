@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/valentinbarco)
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Análisis+de+Datos+,+Machine+Learning;Deep+Learning;Big+Data;Robótica;Electrónica,;DL%20|%20AI%20|%20ML%20Engineer&center=true&width=600&height=60"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Análisis+de+Datos+,+Big+Data;Machine+Learning+,+Deep+Learning;Robótica,+,Electrónica;DL%20|%20AI%20|%20ML%20Engineer&center=true&width=600&height=60"></a>
 </p>
 
 <div size='20px'> 🔍 En este Github vas a encontrar , análisis de datos, machine learning, neurociencia, procesamiento de imagenes, señales y diseño de circuitos analogicos.
