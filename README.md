@@ -9,11 +9,11 @@
 </p>
 
 <div size='20px'> 🔍 En este Github vas a encontrar , análisis de datos, machine learning, neurociencia, procesamiento de imagenes, señales y diseño de circuitos analogicos.
+
+</div>
   <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Proyectos+de+Robótica+,+Análisis+de+Datos+,+Machine+Learning+,+Deep+Learning+,+Big+Data+,+Procesamiento+de+Imagenes+,+Señales+,+y+Diseño de Circuitos+Analogicos;DL%20|%20AI%20|%20ML%20Engineer&center=true&width=600&height=60"></a>
 </p>
-</div>
-
 
 
 
