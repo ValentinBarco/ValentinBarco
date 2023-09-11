@@ -12,7 +12,7 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Proyectos+de+Robótica+,+Análisis+de+Datos+,+Machine+Learning+,+Deep+Learning+,+Big+Data+,+Procesamiento+de+Imagenes+,+Señales+,+y+Diseño+de+Circuitos+Analogicos;DL%20|%20AI%20|%20ML%20Engineer&center=true&width=1000&height=60"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Proyectos+de+Robótica+,+Análisis+de+Datos+,+Machine+Learning+,+Deep+Learning+,+Big+Data+,+Procesamiento+de+Imagenes+,+Señales+,+y+Diseño+de+Circuitos+Analogicos;DL%20|%20AI%20|%20ML%20Engineer&center=true&width=1400&height=60"></a>
 </p>
 
 
