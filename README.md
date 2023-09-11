@@ -4,7 +4,7 @@
 
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/valentinbarco)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Análisis+de+Datos+,+Big+Data+,+Machine+Learning+,+Deep+Learning+,+Robótica+,+Electrónica&center=true&width=1000&height=60"></a>
 </p>
 
