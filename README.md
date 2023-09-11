@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h2 style="margin-top: 10px;"> Te cuento un poco sobre mi </h2>
+<h2 style="margin-top: 0px;"> Te cuento un poco sobre mi </h2>
 
 
 <img src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" align="right" width="300">
