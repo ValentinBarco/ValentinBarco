@@ -3,14 +3,14 @@
 <h1> Hola, soy Valentin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
 
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/valentinbarco)
+<div size='20px'> 🔍 En este Github vas a encontrar , análisis de datos, machine learning, neurociencia, procesamiento de imagenes, señales y diseño de circuitos analogicos.
 
+</div>
 <p align="left">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Análisis+de+Datos+,+Big+Data+,+Machine+Learning+,+Deep+Learning+,+Robótica+,+Electrónica&center=flase&width=1000&height=80"></a>
 </p>
 
-<div size='20px'> 🔍 En este Github vas a encontrar , análisis de datos, machine learning, neurociencia, procesamiento de imagenes, señales y diseño de circuitos analogicos.
 
-</div>
 
 
 
