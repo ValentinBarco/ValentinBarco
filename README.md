@@ -27,7 +27,7 @@ Además de mis intereses profesionales, demás, soy pianista 🎹, productor mus
 <h2> Conocimiento <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,octave,js,tensorflow,pytorch,arduino,raspberrypi,git" width = 600px />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,octave,tensorflow,pytorch,arduino,raspberrypi,git" width = 600px />
   </a>
 </p>
 
