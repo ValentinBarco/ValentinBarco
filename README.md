@@ -16,13 +16,13 @@
 
 <img src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" align="right" width="300">
 
-Soy ingeniero electrónico, apasionado por la innovación y la tecnología. En este último tiempo, me he sentido atraído por el análisis de datos :chart_with_upwards_trend:, pero siempre la robótica y la biotecnología han sido las áreas que más han llamado mi atención. Además de esto, siento una enorme pasión por la neurociencia y disfruto mucho estudiando la mente humana.
+Soy ingeniero electrónico apasionado por la innovación y la tecnología, con conocimientos en neurociencia, optimización metaheurística, procesamiento de imágenes, señales y ciencia de datos.
 
-Me gusta pensar en la idea de utilizar datos biológicos para detectar enfermedades o para brindar habilidades motoras a personas que carecen de ellas.
+Me encuentro trabajando, junto a un equipo multidisciplinario de neurocientíficos, médicos e ingenieros, en una nueva tecnología de impacto global enfocada en la medición de la cognición. Esta tecnología tiene como objetivo ofrecer herramientas avanzadas de alta precisión para proporcionar información sobre la salud cognitiva de los pacientes.
 
 Tengo experiencia en la enseñanza y disfruto compartiendo mis conocimientos tanto con mis alumnos como con cualquier persona interesada en estos campos.
 
-Además de mis intereses profesionales, demás, soy pianista 🎹, productor musical 🎵 y organizador de eventos de música electrónica 🎧.
+Además de mis intereses profesionales, demás, soy pianista 🎹 y productor musical 🎵
 
 <h2> Conocimiento <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
 <p align="left">
