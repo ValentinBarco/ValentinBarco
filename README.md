@@ -7,7 +7,7 @@
 <br>
 <p align="left" style="text-align: left; margin-top: 5px;">
 <a href="https://github.com/valentinbarco" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00C3EA&size=22&center=false&vCenter=true&width=1100&height=40&speed=100&lines=Robótica+-+Electrónica+-+Análisis+de+Datos+-+Big+Data+-+Machine+Learning+-+Deep+Learning;" style="border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 195, 234, 0.4); margin-bottom: 5px;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00C3EA&size=22&center=false&vCenter=true&width=1100&height=40&speed=100&lines=Robótica+-+Electrónica+-+Ciencia+de+Datos+-+Big+Data+-+Machine+Learning+-+Deep+Learning;" style="border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 195, 234, 0.4); margin-bottom: 5px;">
     <img src="https://readme-typing-svg.herokuapp.com?color=00C3EA&size=22&center=false&vCenter=true&width=1100&height=40&speed=100&lines=Procesamiento+Digital+de+Imagenes+-+Neurociencia+Computacional+-+Computadoras+Digitales;" style="border-radius: 3px; box-shadow: 0px 0px 10px rgba(0, 195, 234, 0.4);">
 </a>
 </p>
