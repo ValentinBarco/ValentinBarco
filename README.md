@@ -2,11 +2,6 @@
 
 Ingeniero electrónico · R&D en neurotecnología · Ciencia de datos aplicada a la cognición
 
-LinkedIn GitHub followers
-
-<p align="left"> <a href="https://github.com/valentinbarco" target="_blank"> <img src="https://readme-typing-svg.demolab.com?color=00C3EA&size=22&center=false&vCenter=true&width=1100&height=40&speed=100&lines=Robótica+-+Electrónica+-+Ciencia+de+Datos+-+Big+Data+-+Machine+Learning+-+Deep+Learning"> <img src="https://readme-typing-svg.demolab.com?color=00C3EA&size=22&center=false&vCenter=true&width=1100&height=40&speed=100&lines=Procesamiento+Digital+de+Imagenes+-+Neurociencia+Computacional+-+Computadoras+Digitales"> </a> </p>
-<img src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" align="right" width="280">
-
 Trabajo en la intersección entre neurociencia e ingeniería. En ViewMind me ocupo de la parte técnica de R&D: tomo las decisiones científicas de un equipo de neurocientíficos y médicos y las convierto en pipelines de datos, modelos y herramientas que miden la cognición a partir del movimiento de los ojos.
 
 👁️ Eye-tracking y biomarcadores cognitivos: métricas oculomotoras, envejecimiento y deterioro cognitivo leve
