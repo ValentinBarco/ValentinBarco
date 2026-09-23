@@ -1,4 +1,4 @@
-<h1>Valentin Barco <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px></h1>
+<h1>Valentin Barco</h1>
 
 Ingeniero electrónico · R&D en neurotecnología · Ciencia de datos aplicada a la cognición
 
